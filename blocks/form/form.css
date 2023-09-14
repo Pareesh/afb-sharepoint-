@@ -237,7 +237,7 @@ main form .form-fieldset-wrapper {
 
 @media (min-width: 1200px), (min-width: 992px) {
     :root {
-        --form-columns: 2;
+        --form-columns: 1;
     }
 
     main .form form .form-checkbox-wrapper,
